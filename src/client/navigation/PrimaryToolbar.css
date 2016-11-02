@@ -1,0 +1,52 @@
+.primary-toolbar {
+  width: 100%;
+  height: 80px;
+}
+
+.primary-toolbar-logo {
+  height: 32px;
+  position: relative;
+  top: 10px;
+}
+/*
+.primary-toolbar-logo-container {
+  text-align: center;
+}
+*/
+.primary-toolbar-hamburger-icon {
+  vertical-align: middle;
+  position: absolute;
+  left: 34px;
+  top: 15px;
+  color: #fff;
+  font-size: 50px !important;
+  cursor: pointer;
+}
+
+.primary-toolbar-user-icon {
+  position: absolute;
+  left: 140px;
+  top: 20px;
+  background: #fff;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 35px !important;
+}
+
+.primary-toolbar-user-name {
+  position: absolute;
+  left: 184px;
+  top: 28px;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.primary-toolbar-globe-icon {
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  color: #fff;
+  font-size: 46px !important;
+  cursor: pointer;
+}

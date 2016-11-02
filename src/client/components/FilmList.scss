@@ -1,0 +1,39 @@
+table {
+  width: 100%;
+  color: #FFFFFF;
+  padding: 25px;
+}
+
+tr {
+  padding: 5px;
+  height: 115px;
+}
+
+tr:nth-child(1) {
+  padding-left: 20px;
+}
+
+td {
+  cursor: pointer;
+}
+
+td:first-child {
+  padding-left: 20px;
+}
+
+.table-heading {
+  text-transform: uppercase;
+}
+
+.message-type-icon {
+  padding: 15px;
+  font-size: 16px !important;
+}
+
+.table-row-status-icon {
+  font-size: 14px !important;
+}
+
+.film-details-table-container {
+  padding-top: 20px;
+}

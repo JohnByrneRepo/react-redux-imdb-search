@@ -1,0 +1,55 @@
+.branding-bg-dark-cyan { background: #2baaa5 !important; }
+.branding-bg-dark-cyan-darken { background: #1b8885 !important; }
+.branding-bg-light-sea-green { background: #22978e !important; }
+.branding-bg-pale-violet-red { background: #e85296 !important; } /* To-do: Opacity 60% */
+.branding-bg-white { background: #FFFFFF !important; }
+
+.branding-text-dark-cyan { color: #2baaa5 !important; text-decoration: none !important; }
+.branding-text-light-sea-green { color: #22978e !important; text-decoration: none !important; }
+.branding-text-pale-violet-red { color: #e85296 !important; text-decoration: none !important; } /* To-do: Opacity 60% */
+.branding-text-white { color: #FFFFFF !important; text-decoration: none !important; }
+.branding-text-black { color: #000000 !important; text-decoration: none !important; }
+
+.title {
+  font-size: 18pt;
+  font-weight: 400; /* Normal */
+}
+
+.heading {
+  font-size: 16pt;
+  font-weight: 550; /* Semibold */
+}
+
+.subheading {
+  font-size: 11pt;
+  font-weight: 600; /* Normal */
+}
+
+.annotation {
+  font-size: 9pt;
+  padding-right: 10px;
+  color: #BBBBBB;
+  font-weight: 100; /* Normal */
+}
+
+.annotation-bold {
+  font-size: 9pt;
+  color: #FFFFFF;
+  font-weight: 600; /* Normal */
+}
+
+.body {
+  font-size: 13pt;
+  font-weight: 400; /* Normal */
+}
+
+.label {
+  padding-left: 0;
+  font-size: 18pt;
+  font-weight: lighter; /* Semibold */
+}
+
+.button {
+  font-size: 14pt;
+  font-weight: 550; /* Semibold */
+}
