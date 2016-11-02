@@ -1,5 +1,5 @@
 React example project
----------------------
+--------------------- 
 
 The tech stack consists of React, Redux, d3, Material Design Icons, Sass and Bootstrap.
 
